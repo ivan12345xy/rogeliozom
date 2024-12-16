@@ -3084,6 +3084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-16 21:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_shovel": "2024-12-16 21:03:09 +0000"
@@ -3108,9 +3114,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-16 21:26:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-16 21:26:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2024-12-16 21:01:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-16 21:26:18 +0000"
     },
     "done": true
   },
@@ -3126,9 +3150,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 21:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-16 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 21:28:26 +0000"
     },
     "done": true
   },
@@ -3156,6 +3192,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-16 21:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-16 21:07:25 +0000"
@@ -3168,15 +3210,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-16 21:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-16 20:58:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-16 21:28:26 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-12-16 21:26:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-16 21:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-16 21:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-16 21:28:26 +0000"
     },
     "done": true
   },
