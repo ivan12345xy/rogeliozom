@@ -96,3 +96,7 @@
 [16Dec2024 21:27:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun has made the advancement [Unbreaking X]
 [16Dec2024 21:45:17.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
 [16Dec2024 21:45:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[16Dec2024 21:47:52.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.115.114.245:40583] logged in with entity id 16630 at (14.381536008314962, 62.0, -0.8603600237644372)
+[16Dec2024 21:47:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
+[16Dec2024 21:54:28.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
+[16Dec2024 21:54:28.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
