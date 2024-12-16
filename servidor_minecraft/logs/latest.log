@@ -94,3 +94,5 @@
 [16Dec2024 21:07:25.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Ice Bucket Challenge]
 [16Dec2024 21:26:54.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Unbreaking X]
 [16Dec2024 21:27:06.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun has made the advancement [Unbreaking X]
+[16Dec2024 21:45:17.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
+[16Dec2024 21:45:17.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
