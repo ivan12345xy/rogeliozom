@@ -100,3 +100,5 @@
 [16Dec2024 21:47:52.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
 [16Dec2024 21:54:28.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
 [16Dec2024 21:54:28.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[16Dec2024 22:11:11.343] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NormalXY lost connection: Disconnected
+[16Dec2024 22:11:11.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY left the game
