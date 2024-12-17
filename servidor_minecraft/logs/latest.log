@@ -83,3 +83,19 @@
 [17Dec2024 02:11:05.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
 [17Dec2024 02:11:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
 [17Dec2024 02:12:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Not a Fluid!]
+[17Dec2024 05:51:56.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NormalXY lost connection: Disconnected
+[17Dec2024 05:51:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY left the game
+[17Dec2024 05:52:23.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Dec2024 05:52:23.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Dec2024 05:52:23.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Dec2024 05:52:23.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Dec2024 05:52:23.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Dec2024 05:52:23.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Dec2024 05:52:23.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Dec2024 05:52:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Dec2024 05:52:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Dec2024 05:52:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Dec2024 05:52:23.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Dec2024 05:52:23.361] [Server thread/INFO] [Framework/]: Unloading server configs...
+[17Dec2024 05:52:23.363] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[17Dec2024 05:52:23.364] [Server thread/INFO] [Framework/]: Finished unloading server configs
