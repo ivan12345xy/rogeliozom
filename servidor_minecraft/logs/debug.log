@@ -3453,3 +3453,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Dec2024 02:00:01.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.4258297909953015
 [17Dec2024 02:00:01.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3979475676383437
 [17Dec2024 02:00:01.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3709813830047608
+[17Dec2024 02:02:02.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:02:02.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:07:02.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:07:02.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:11:05.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
+[17Dec2024 02:11:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[17Dec2024 02:12:02.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 02:12:02.674] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
