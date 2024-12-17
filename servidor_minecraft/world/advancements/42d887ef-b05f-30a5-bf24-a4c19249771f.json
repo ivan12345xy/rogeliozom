@@ -3258,5 +3258,17 @@
     },
     "done": true
   },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2024-12-17 01:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-17 01:26:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
