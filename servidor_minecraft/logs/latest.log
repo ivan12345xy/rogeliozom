@@ -82,3 +82,4 @@
 [17Dec2024 02:00:01.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3709813830047608
 [17Dec2024 02:11:05.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
 [17Dec2024 02:11:05.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[17Dec2024 02:12:49.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Not a Fluid!]
