@@ -77,3 +77,6 @@
 [17Dec2024 01:32:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
 [17Dec2024 01:35:36.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.134.241.150:53231] logged in with entity id 5382 at (15.462806101905501, 62.0, -1.3418062731466223)
 [17Dec2024 01:35:36.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
+[17Dec2024 02:00:01.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.4258297909953015
+[17Dec2024 02:00:01.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3979475676383437
+[17Dec2024 02:00:01.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3709813830047608

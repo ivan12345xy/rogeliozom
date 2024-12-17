@@ -2928,6 +2928,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-17 01:52:41 +0000",
       "minecraft:zombie": "2024-12-13 01:57:25 +0000"
     },
     "done": false
@@ -3277,6 +3278,42 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-17 01:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-17 01:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-17 01:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-17 01:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-17 01:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-17 01:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-17 01:52:42 +0000"
     },
     "done": true
   },

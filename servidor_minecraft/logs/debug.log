@@ -3446,3 +3446,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Dec2024 01:42:02.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [17Dec2024 01:47:02.685] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Dec2024 01:47:02.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 01:52:02.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 01:52:02.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 01:57:02.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 01:57:02.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 02:00:01.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.4258297909953015
+[17Dec2024 02:00:01.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3979475676383437
+[17Dec2024 02:00:01.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Summoned Horse (vehicle of NormalXY) moved wrongly! 0.3709813830047608

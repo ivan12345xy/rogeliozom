@@ -3264,15 +3264,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 01:49:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-17 01:26:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-17 01:49:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2024-12-17 01:28:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-17 01:49:49 +0000"
     },
     "done": true
   },
