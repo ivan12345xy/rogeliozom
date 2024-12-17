@@ -73,3 +73,7 @@
 [17Dec2024 01:14:28.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY joined the game
 [17Dec2024 01:20:50.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Imbued]
 [17Dec2024 01:28:10.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: NormalXY has made the advancement [Would you Like to Know More?]
+[17Dec2024 01:32:53.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: panditafun lost connection: Disconnected
+[17Dec2024 01:32:53.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun left the game
+[17Dec2024 01:35:36.518] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: panditafun[/127.134.241.150:53231] logged in with entity id 5382 at (15.462806101905501, 62.0, -1.3418062731466223)
+[17Dec2024 01:35:36.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: panditafun joined the game
